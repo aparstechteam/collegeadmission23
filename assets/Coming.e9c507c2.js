@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{j as t,k as o,l as s}from"./index.c78d9ba0.js";const c={},n={class:"min-h-[80vh] flex items-center justify-center"},r=s("h1",{class:"text-3xl font-bold"}," Coming Soon... ",-1),_=[r];function a(i,f){return t(),o("div",n,_)}var d=e(c,[["render",a]]);export{d as default};
